@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+transformers==4.40.0
+torch        # or your system-specific CPU wheel
+python-multipart
+pydantic
+Pillow
