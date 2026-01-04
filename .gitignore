@@ -84,3 +84,5 @@ pytest_cache/
 *.tmp
 *.temp
 *.bak
+# in .gitignore
+/src/firebase.js
